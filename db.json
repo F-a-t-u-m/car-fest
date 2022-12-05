@@ -1,0 +1,42 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Audi",
+      "model": "A6",
+      "price": 3500
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "model": "X5",
+      "price": 5500
+    },
+    {
+      "id": 3,
+      "name": "Mazda",
+      "model": "636",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "name": "Cherry",
+      "model": "QQ",
+      "price": 900
+    },
+    {
+      "id": 5,
+      "name": "Fiat",
+      "model": "Dolbo",
+      "price": 4900
+    }
+  ],
+  "users": [
+    {
+      "name": "Pasha",
+      "email": "pasha@gmail.com",
+      "password": "12345",
+      "id": 1
+    }
+  ]
+}

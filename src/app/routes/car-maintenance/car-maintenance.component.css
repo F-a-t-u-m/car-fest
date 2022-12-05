@@ -1,0 +1,21 @@
+:host {
+	display: block;
+}
+
+table {
+	margin-top: 20px;
+	padding: 20px;
+}
+
+tr:nth-child(even) {
+	background-color: #c2c2c2;
+}
+
+tr {
+	padding: 10px 0;
+}
+
+.btn-sm {
+	width: 60px;
+	margin-left: 5px;
+}
